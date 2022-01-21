@@ -9,6 +9,8 @@
 #include <KrisLibrary/utils/DirtyData.h>
 #include <map>
 
+#include <map>
+
 /** @file IKFunctions.h
  * @ingroup Kinematics
  * @brief Helper classes and functions for solving iterative inverse
