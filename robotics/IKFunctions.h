@@ -8,6 +8,8 @@
 #include <KrisLibrary/utils/ArrayMapping.h>
 #include <KrisLibrary/utils/DirtyData.h>
 
+#include <map>
+
 /** @file IKFunctions.h
  * @ingroup Kinematics
  * @brief Helper classes and functions for solving iterative inverse
